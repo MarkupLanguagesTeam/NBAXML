@@ -1,0 +1,41 @@
+<?xml version="1.0" encoding="us-ascii"?>
+<?xml-stylesheet type="text/xsl" href="nbaxml.xsl"?>
+<GAME>
+	<TEAM><TEAMNAME>Bulls</TEAMNAME>
+		<PLAYER><NAME>L. DENG</NAME>
+			<MIN>43</MIN>
+			<PTS>17</PTS>
+			<REB>10</REB>
+			<STL>1</STL>
+			<BLK>5</BLK>
+		</PLAYER>
+		<PLAYER><NAME>C. BOOZER</NAME>
+			<MIN>27</MIN>
+			<PTS>8</PTS>
+			<REB>3</REB>
+			<STL>0</STL>
+			<BLK>4</BLK>
+		</PLAYER>
+		<PLAYER><NAME>J. NOAH</NAME>
+			<MIN>28</MIN>
+			<PTS>8</PTS>
+			<REB>13</REB>
+			<STL>1</STL>
+			<BLK>6</BLK>
+		</PLAYER>
+		<PLAYER><NAME>R. BREWER</NAME>
+			<MIN>31</MIN>
+			<PTS>12</PTS>
+			<REB>6</REB>
+			<STL>2</STL>
+			<BLK>5</BLK>
+		</PLAYER>
+		<PLAYER><NAME>C. WATSON</NAME>
+			<MIN>32</MIN>
+			<PTS>15</PTS>
+			<REB>6</REB>
+			<STL>0</STL>
+			<BLK>0</BLK>
+		</PLAYER>
+	</TEAM>
+</GAME>
