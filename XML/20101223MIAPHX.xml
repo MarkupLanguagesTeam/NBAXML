@@ -1,0 +1,160 @@
+<?xml version='1.0' encoding='us-ascii'?>
+<?xml-stylesheet type='text/xsl' href='nbaxml.xsl'?>
+ <GAME>
+	<TEAM><TEAMNAME>VISITOR: Miami Heat (22-9)
+</TEAMNAME>
+		<PLAYER><NAME>LeBron,James</NAME>
+ 			<MIN>37.23</MIN>
+			<PTS>36</PTS>
+			<REB>6</REB>
+			<STL>3</STL>
+			<BLK>0</BLK>
+		</PLAYER>
+		<PLAYER><NAME>Chris,Bosh</NAME>
+ 			<MIN>37.19</MIN>
+			<PTS>23</PTS>
+			<REB>11</REB>
+			<STL>2</STL>
+			<BLK>1</BLK>
+		</PLAYER>
+		<PLAYER><NAME>Zydrunas,Ilgauskas</NAME>
+ 			<MIN>5.42</MIN>
+			<PTS>2</PTS>
+			<REB>0</REB>
+			<STL>0</STL>
+			<BLK>0</BLK>
+		</PLAYER>
+		<PLAYER><NAME>James,Jones</NAME>
+ 			<MIN>34.43</MIN>
+			<PTS>7</PTS>
+			<REB>2</REB>
+			<STL>1</STL>
+			<BLK>1</BLK>
+		</PLAYER>
+		<PLAYER><NAME>Carlos,Arroyo</NAME>
+ 			<MIN>25.37</MIN>
+			<PTS>11</PTS>
+			<REB>3</REB>
+			<STL>0</STL>
+			<BLK>0</BLK>
+		</PLAYER>
+		<PLAYER><NAME>Joel,Anthony</NAME>
+ 			<MIN>23.38</MIN>
+			<PTS>0</PTS>
+			<REB>2</REB>
+			<STL>1</STL>
+			<BLK>1</BLK>
+		</PLAYER>
+		<PLAYER><NAME>Mario,Chalmers</NAME>
+ 			<MIN>26.50</MIN>
+			<PTS>11</PTS>
+			<REB>3</REB>
+			<STL>2</STL>
+			<BLK>1</BLK>
+		</PLAYER>
+		<PLAYER><NAME>Mike,Miller</NAME>
+ 			<MIN>19.27</MIN>
+			<PTS>1</PTS>
+			<REB>5</REB>
+			<STL>0</STL>
+			<BLK>0</BLK>
+		</PLAYER>
+		<PLAYER><NAME>Juwan,Howard</NAME>
+ 			<MIN>13.45</MIN>
+			<PTS>2</PTS>
+			<REB>3</REB>
+			<STL>0</STL>
+			<BLK>0</BLK>
+		</PLAYER>
+		<PLAYER><NAME>Erick,Dampier</NAME>
+ 			<MIN>15.36</MIN>
+			<PTS>2</PTS>
+			<REB>9</REB>
+			<STL>0</STL>
+			<BLK>0</BLK>
+		</PLAYER>
+		<PLAYER><NAME>Eddie,House</NAME>
+ 			<MIN>0.0</MIN>
+			<PTS>0</PTS>
+			<REB>0</REB>
+			<STL>0</STL>
+			<BLK>0</BLK>
+		</PLAYER>
+		<PLAYER><NAME>Jamaal,Magloire</NAME>
+ 			<MIN>0.0</MIN>
+			<PTS>0</PTS>
+			<REB>0</REB>
+			<STL>0</STL>
+			<BLK>0</BLK>
+		</PLAYER>
+		</TEAM>
+	<TEAM><TEAMNAME>HOME: PHOENIX SUNS (13-15)
+</TEAMNAME>
+		<PLAYER><NAME>Grant,Hill</NAME>
+ 			<MIN>35.26</MIN>
+			<PTS>8</PTS>
+			<REB>4</REB>
+			<STL>0</STL>
+			<BLK>0</BLK>
+		</PLAYER>		<PLAYER><NAME>Channing,Frye</NAME>
+ 			<MIN>35.12</MIN>
+			<PTS>14</PTS>
+			<REB>6</REB>
+			<STL>1</STL>
+			<BLK>1</BLK>
+		</PLAYER>		<PLAYER><NAME>Robin,Lopez</NAME>
+ 			<MIN>26.43</MIN>
+			<PTS>12</PTS>
+			<REB>5</REB>
+			<STL>0</STL>
+			<BLK>1</BLK>
+		</PLAYER>		<PLAYER><NAME>Jared,Dudley</NAME>
+ 			<MIN>41.33</MIN>
+			<PTS>33</PTS>
+			<REB>12</REB>
+			<STL>3</STL>
+			<BLK>0</BLK>
+		</PLAYER>		<PLAYER><NAME>Steve,Nash</NAME>
+ 			<MIN>31.58</MIN>
+			<PTS>4</PTS>
+			<REB>4</REB>
+			<STL>0</STL>
+			<BLK>0</BLK>
+		</PLAYER>		<PLAYER><NAME>Marcin,Gortat</NAME>
+ 			<MIN>17.35</MIN>
+			<PTS>4</PTS>
+			<REB>4</REB>
+			<STL>0</STL>
+			<BLK>0</BLK>
+		</PLAYER>		<PLAYER><NAME>Mickael,Pietrus</NAME>
+ 			<MIN>12.34</MIN>
+			<PTS>2</PTS>
+			<REB>0</REB>
+			<STL>1</STL>
+			<BLK>0</BLK>
+		</PLAYER>		<PLAYER><NAME>Goran,Dragic</NAME>
+ 			<MIN>16.02</MIN>
+			<PTS>1</PTS>
+			<REB>2</REB>
+			<STL>0</STL>
+			<BLK>0</BLK>
+		</PLAYER>		<PLAYER><NAME>Josh,Childress</NAME>
+ 			<MIN>10.09</MIN>
+			<PTS>2</PTS>
+			<REB>2</REB>
+			<STL>1</STL>
+			<BLK>0</BLK>
+		</PLAYER>		<PLAYER><NAME>Hakim,Warrick</NAME>
+ 			<MIN>12.48</MIN>
+			<PTS>3</PTS>
+			<REB>0</REB>
+			<STL>1</STL>
+			<BLK>0</BLK>
+		</PLAYER>		<PLAYER><NAME>Gani,Lawal</NAME>
+ 			<MIN>0.0</MIN>
+			<PTS>0</PTS>
+			<REB>0</REB>
+			<STL>0</STL>
+			<BLK>0</BLK>
+		</PLAYER>		</TEAM>
+</GAME>

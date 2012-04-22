@@ -1,0 +1,160 @@
+<?xml version='1.0' encoding='us-ascii'?>
+<?xml-stylesheet type='text/xsl' href='nbaxml.xsl'?>
+ <GAME>
+	<TEAM><TEAMNAME>VISITOR: Miami Heat (1-1)
+</TEAMNAME>
+		<PLAYER><NAME>LeBron,James</NAME>
+ 			<MIN>37.33</MIN>
+			<PTS>16</PTS>
+			<REB>6</REB>
+			<STL>2</STL>
+			<BLK>1</BLK>
+		</PLAYER>
+		<PLAYER><NAME>Chris,Bosh</NAME>
+ 			<MIN>39.09</MIN>
+			<PTS>15</PTS>
+			<REB>7</REB>
+			<STL>1</STL>
+			<BLK>1</BLK>
+		</PLAYER>
+		<PLAYER><NAME>Joel,Anthony</NAME>
+ 			<MIN>17.37</MIN>
+			<PTS>0</PTS>
+			<REB>3</REB>
+			<STL>0</STL>
+			<BLK>1</BLK>
+		</PLAYER>
+		<PLAYER><NAME>Dwyane,Wade</NAME>
+ 			<MIN>35.20</MIN>
+			<PTS>30</PTS>
+			<REB>7</REB>
+			<STL>3</STL>
+			<BLK>2</BLK>
+		</PLAYER>
+		<PLAYER><NAME>Carlos,Arroyo</NAME>
+ 			<MIN>28.28</MIN>
+			<PTS>6</PTS>
+			<REB>3</REB>
+			<STL>1</STL>
+			<BLK>0</BLK>
+		</PLAYER>
+		<PLAYER><NAME>Udonis,Haslem</NAME>
+ 			<MIN>12.42</MIN>
+			<PTS>0</PTS>
+			<REB>5</REB>
+			<STL>0</STL>
+			<BLK>0</BLK>
+		</PLAYER>
+		<PLAYER><NAME>Eddie,House</NAME>
+ 			<MIN>21.39</MIN>
+			<PTS>3</PTS>
+			<REB>1</REB>
+			<STL>0</STL>
+			<BLK>0</BLK>
+		</PLAYER>
+		<PLAYER><NAME>James,Jones</NAME>
+ 			<MIN>29.31</MIN>
+			<PTS>20</PTS>
+			<REB>1</REB>
+			<STL>1</STL>
+			<BLK>1</BLK>
+		</PLAYER>
+		<PLAYER><NAME>Zydrunas,Ilgauskas</NAME>
+ 			<MIN>8.49</MIN>
+			<PTS>5</PTS>
+			<REB>3</REB>
+			<STL>0</STL>
+			<BLK>0</BLK>
+		</PLAYER>
+		<PLAYER><NAME>Jerry,Stackhouse</NAME>
+ 			<MIN>5.07</MIN>
+			<PTS>2</PTS>
+			<REB>1</REB>
+			<STL>0</STL>
+			<BLK>0</BLK>
+		</PLAYER>
+		<PLAYER><NAME>Juwan,Howard</NAME>
+ 			<MIN>4.05</MIN>
+			<PTS>0</PTS>
+			<REB>0</REB>
+			<STL>0</STL>
+			<BLK>0</BLK>
+		</PLAYER>
+		<PLAYER><NAME>Mario,Chalmers</NAME>
+ 			<MIN>0.0</MIN>
+			<PTS>0</PTS>
+			<REB>0</REB>
+			<STL>0</STL>
+			<BLK>0</BLK>
+		</PLAYER>
+		</TEAM>
+	<TEAM><TEAMNAME>HOME: PHILADELPHIA 76ERS (0-1)
+</TEAMNAME>
+		<PLAYER><NAME>Jason,Kapono</NAME>
+ 			<MIN>12.55</MIN>
+			<PTS>2</PTS>
+			<REB>1</REB>
+			<STL>1</STL>
+			<BLK>0</BLK>
+		</PLAYER>		<PLAYER><NAME>Elton,Brand</NAME>
+ 			<MIN>33.52</MIN>
+			<PTS>12</PTS>
+			<REB>9</REB>
+			<STL>3</STL>
+			<BLK>2</BLK>
+		</PLAYER>		<PLAYER><NAME>Spencer,Hawes</NAME>
+ 			<MIN>14.16</MIN>
+			<PTS>0</PTS>
+			<REB>3</REB>
+			<STL>0</STL>
+			<BLK>0</BLK>
+		</PLAYER>		<PLAYER><NAME>Andre,Iguodala</NAME>
+ 			<MIN>38.55</MIN>
+			<PTS>10</PTS>
+			<REB>7</REB>
+			<STL>2</STL>
+			<BLK>0</BLK>
+		</PLAYER>		<PLAYER><NAME>Jrue,Holiday</NAME>
+ 			<MIN>21.17</MIN>
+			<PTS>6</PTS>
+			<REB>2</REB>
+			<STL>2</STL>
+			<BLK>0</BLK>
+		</PLAYER>		<PLAYER><NAME>Louis,Williams</NAME>
+ 			<MIN>33.45</MIN>
+			<PTS>15</PTS>
+			<REB>1</REB>
+			<STL>0</STL>
+			<BLK>0</BLK>
+		</PLAYER>		<PLAYER><NAME>Evan,Turner</NAME>
+ 			<MIN>30.40</MIN>
+			<PTS>16</PTS>
+			<REB>7</REB>
+			<STL>0</STL>
+			<BLK>1</BLK>
+		</PLAYER>		<PLAYER><NAME>Thaddeus,Young</NAME>
+ 			<MIN>25.49</MIN>
+			<PTS>15</PTS>
+			<REB>3</REB>
+			<STL>2</STL>
+			<BLK>0</BLK>
+		</PLAYER>		<PLAYER><NAME>Marreese,Speights</NAME>
+ 			<MIN>3.39</MIN>
+			<PTS>1</PTS>
+			<REB>0</REB>
+			<STL>0</STL>
+			<BLK>0</BLK>
+		</PLAYER>		<PLAYER><NAME>Andres,Nocioni</NAME>
+ 			<MIN>19.54</MIN>
+			<PTS>10</PTS>
+			<REB>5</REB>
+			<STL>0</STL>
+			<BLK>1</BLK>
+		</PLAYER>		<PLAYER><NAME>Darius,Songaila</NAME>
+ 			<MIN>4.59</MIN>
+			<PTS>0</PTS>
+			<REB>0</REB>
+			<STL>0</STL>
+			<BLK>0</BLK>
+		</PLAYER>		</TEAM>
+</GAME>

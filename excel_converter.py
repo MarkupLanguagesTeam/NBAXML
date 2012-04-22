@@ -11,7 +11,7 @@ gameList = []
 newGameList = []
 for rownum in range(2623):
     stringTeam = sheet.cell(rownum, 2).value
-    if  stringTeam == "Chicago":
+    if  stringTeam == "Miami":
         if  rownum%2==0:
             link = sheet.hyperlink_map.get((rownum,40))
             url = "(No URL)" if link is None else link.url_or_path

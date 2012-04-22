@@ -1,0 +1,12 @@
+<?xml version='1.0' encoding='us-ascii'?>
+<?xml-stylesheet type='text/xsl' href='nbaxml.xsl'?>
+ <GAME>
+	<TEAM><TEAMNAME>VISITOR: Detroit Pistons (6-13)
+</TEAMNAME>
+		<PLAYER><NAME>2T,13</NAME>
+ 			<MIN>2667.w</MIN>
+			<PTS>T</PTS>
+			<REB>HEAT</REB>
+			<STL>767</STL>
+			<BLK>NO</BLK>
+		</PLAYER>
