@@ -1,0 +1,160 @@
+<?xml version='1.0' encoding='us-ascii'?>
+<?xml-stylesheet type='text/xsl' href='nbaxml.xsl'?>
+ <GAME>
+	<TEAM><TEAMNAME>VISITOR: San Antonio Spurs (46-10)
+</TEAMNAME>
+		<PLAYER><NAME>Richard,Jefferson</NAME>
+ 			<MIN>36.23</MIN>
+			<PTS>12</PTS>
+			<REB>3</REB>
+			<STL>0</STL>
+			<BLK>0</BLK>
+		</PLAYER>
+		<PLAYER><NAME>Tim,Duncan</NAME>
+ 			<MIN>32.48</MIN>
+			<PTS>14</PTS>
+			<REB>9</REB>
+			<STL>0</STL>
+			<BLK>1</BLK>
+		</PLAYER>
+		<PLAYER><NAME>DeJuan,Blair</NAME>
+ 			<MIN>19.39</MIN>
+			<PTS>6</PTS>
+			<REB>3</REB>
+			<STL>2</STL>
+			<BLK>1</BLK>
+		</PLAYER>
+		<PLAYER><NAME>Manu,Ginobili</NAME>
+ 			<MIN>31.48</MIN>
+			<PTS>16</PTS>
+			<REB>1</REB>
+			<STL>1</STL>
+			<BLK>0</BLK>
+		</PLAYER>
+		<PLAYER><NAME>Tony,Parker</NAME>
+ 			<MIN>35.16</MIN>
+			<PTS>26</PTS>
+			<REB>1</REB>
+			<STL>2</STL>
+			<BLK>1</BLK>
+		</PLAYER>
+		<PLAYER><NAME>George,Hill</NAME>
+ 			<MIN>17.22</MIN>
+			<PTS>6</PTS>
+			<REB>3</REB>
+			<STL>0</STL>
+			<BLK>0</BLK>
+		</PLAYER>
+		<PLAYER><NAME>Matt,Bonner</NAME>
+ 			<MIN>25.55</MIN>
+			<PTS>3</PTS>
+			<REB>3</REB>
+			<STL>1</STL>
+			<BLK>0</BLK>
+		</PLAYER>
+		<PLAYER><NAME>Antonio,McDyess</NAME>
+ 			<MIN>16.30</MIN>
+			<PTS>0</PTS>
+			<REB>4</REB>
+			<STL>0</STL>
+			<BLK>1</BLK>
+		</PLAYER>
+		<PLAYER><NAME>Gary,Neal</NAME>
+ 			<MIN>22.03</MIN>
+			<PTS>16</PTS>
+			<REB>2</REB>
+			<STL>0</STL>
+			<BLK>0</BLK>
+		</PLAYER>
+		<PLAYER><NAME>Steve,Novak</NAME>
+ 			<MIN>1.08</MIN>
+			<PTS>0</PTS>
+			<REB>0</REB>
+			<STL>0</STL>
+			<BLK>0</BLK>
+		</PLAYER>
+		<PLAYER><NAME>Chris,Quinn</NAME>
+ 			<MIN>1.08</MIN>
+			<PTS>0</PTS>
+			<REB>0</REB>
+			<STL>0</STL>
+			<BLK>0</BLK>
+		</PLAYER>
+		<PLAYER><NAME>Tiago,Splitter</NAME>
+ 			<MIN>0.0</MIN>
+			<PTS>0</PTS>
+			<REB>0</REB>
+			<STL>0</STL>
+			<BLK>0</BLK>
+		</PLAYER>
+		</TEAM>
+	<TEAM><TEAMNAME>HOME: CHICAGO BULLS (38-16)
+</TEAMNAME>
+		<PLAYER><NAME>Luol,Deng</NAME>
+ 			<MIN>40.00</MIN>
+			<PTS>19</PTS>
+			<REB>7</REB>
+			<STL>1</STL>
+			<BLK>2</BLK>
+		</PLAYER>		<PLAYER><NAME>Carlos,Boozer</NAME>
+ 			<MIN>28.57</MIN>
+			<PTS>15</PTS>
+			<REB>6</REB>
+			<STL>1</STL>
+			<BLK>0</BLK>
+		</PLAYER>		<PLAYER><NAME>Kurt,Thomas</NAME>
+ 			<MIN>23.54</MIN>
+			<PTS>2</PTS>
+			<REB>9</REB>
+			<STL>0</STL>
+			<BLK>0</BLK>
+		</PLAYER>		<PLAYER><NAME>Keith,Bogans</NAME>
+ 			<MIN>17.33</MIN>
+			<PTS>6</PTS>
+			<REB>0</REB>
+			<STL>0</STL>
+			<BLK>0</BLK>
+		</PLAYER>		<PLAYER><NAME>Derrick,Rose</NAME>
+ 			<MIN>38.30</MIN>
+			<PTS>42</PTS>
+			<REB>5</REB>
+			<STL>0</STL>
+			<BLK>1</BLK>
+		</PLAYER>		<PLAYER><NAME>Ronnie,Brewer</NAME>
+ 			<MIN>19.33</MIN>
+			<PTS>9</PTS>
+			<REB>3</REB>
+			<STL>0</STL>
+			<BLK>0</BLK>
+		</PLAYER>		<PLAYER><NAME>Taj,Gibson</NAME>
+ 			<MIN>28.46</MIN>
+			<PTS>6</PTS>
+			<REB>6</REB>
+			<STL>0</STL>
+			<BLK>2</BLK>
+		</PLAYER>		<PLAYER><NAME>Omer,Asik</NAME>
+ 			<MIN>14.23</MIN>
+			<PTS>2</PTS>
+			<REB>4</REB>
+			<STL>0</STL>
+			<BLK>1</BLK>
+		</PLAYER>		<PLAYER><NAME>CJ,Watson</NAME>
+ 			<MIN>9.30</MIN>
+			<PTS>3</PTS>
+			<REB>0</REB>
+			<STL>0</STL>
+			<BLK>0</BLK>
+		</PLAYER>		<PLAYER><NAME>Kyle,Korver</NAME>
+ 			<MIN>18.54</MIN>
+			<PTS>5</PTS>
+			<REB>1</REB>
+			<STL>0</STL>
+			<BLK>0</BLK>
+		</PLAYER>		<PLAYER><NAME>James,Johnson</NAME>
+ 			<MIN>0.0</MIN>
+			<PTS>0</PTS>
+			<REB>0</REB>
+			<STL>0</STL>
+			<BLK>0</BLK>
+		</PLAYER>		</TEAM>
+</GAME>

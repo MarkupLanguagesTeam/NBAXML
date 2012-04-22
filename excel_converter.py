@@ -1,30 +1,10 @@
 import xlrd
-import sgmllib
 import urllib2
 import unicodedata
-from HTMLParser import HTMLParser
-
-
-class MyHTMLParser(HTMLParser):
-    def handle_starttag(self, tag, attrs):
-        if tag == 'table':
-            print tag
-        else:
-            pass
-    def handle_endtag(self, tag):
-        if tag == 'table':
-            print tag
-        else:
-            pass
-    def handle_data(self, data):
-        if data !='':
-            print "ENCOUNTERED SOME DATA:", data
-        else:
-            pass
-            
+      
         
 ##--------------Opens Spreadsheet and Gathers Game Information----------------------------------------------
-book = xlrd.open_workbook("C:\Users\Eric\Desktop\MarkupLanguagesTeam-NBAXML-c70d77d/20102011NBAFullSeasonBoxScoreStatsInExcel.xls")
+book = xlrd.open_workbook("C:\\Users\\Eric\\Documents\\Loyola Grad School\\Spring 2012\\Markup Languages\\nbaxml\\20102011NBAFullSeasonBoxScoreStatsInExcel.xls")
 sheet = book.sheet_by_index(0)
 
 gameList = []
@@ -46,19 +26,26 @@ for rownum in range(2623):
 for game in gameList:
     appendURL = game.rstrip('boxscore.html')+'gameinfo.html'
     newGameList.append(appendURL)
-    print appendURL
+print newGameList
 
-##--------------Opens Webpages------------------------------------------------------------------------------
-
-##for games in newGameList:
-gamePage = urllib2.urlopen('http://www.nba.com/games/20110526/MIACHI/gameinfo.html')
-gameInfo = gamePage.read()
-print gameInfo
-parser = MyHTMLParser()
-parser.feed(gameInfo)
+##--------------Opens Webpages and gets PDF's------------------------------------------------------------------------------
+textList = []
+for games in newGameList:
+    print games
+    gamePage = urllib2.urlopen(games)
+    gameInfo = gamePage.read()
+    gameInfo = gameInfo[2100:len(gameInfo)]
+    PDFStr = "/data/html/nbacom/2010/gameinfo/"
+    PDF_Link ="http://www.nba.com" + gameInfo[gameInfo.find(PDFStr, 60):gameInfo.find(PDFStr, 60)+60]
+    openPDF = urllib2.urlopen(PDF_Link).read()
+    PDF_name = games[25:33]+games[34:40]+".pdf"
+    dirPath = "C:\\Users\\Eric\\Documents\\Loyola Grad School\\Spring 2012\\Markup Languages\\nbaxml\\pdfs\\"
+    PDF = open(dirPath+PDF_name, 'wb')
+    PDF.write(openPDF)
+    PDF.close
+    textList.append(games[25:33]+games[34:40]+".txt")
+print textList
+##--------------Run through Simpo PDF to Text------------------------------------------------------------------------------
+##--------------Parse .txt and convert to XML------------------------------------------------------------------------------
 
     
-    
-    
-   
-   

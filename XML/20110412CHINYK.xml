@@ -1,0 +1,160 @@
+<?xml version='1.0' encoding='us-ascii'?>
+<?xml-stylesheet type='text/xsl' href='nbaxml.xsl'?>
+ <GAME>
+	<TEAM><TEAMNAME>VISITOR: Chicago Bulls (61-20)
+</TEAMNAME>
+		<PLAYER><NAME>Carlos,Boozer</NAME>
+ 			<MIN>36.51</MIN>
+			<PTS>14</PTS>
+			<REB>22</REB>
+			<STL>0</STL>
+			<BLK>1</BLK>
+		</PLAYER>
+		<PLAYER><NAME>Luol,Deng</NAME>
+ 			<MIN>43.54</MIN>
+			<PTS>23</PTS>
+			<REB>10</REB>
+			<STL>0</STL>
+			<BLK>0</BLK>
+		</PLAYER>
+		<PLAYER><NAME>Joakim,Noah</NAME>
+ 			<MIN>28.00</MIN>
+			<PTS>13</PTS>
+			<REB>3</REB>
+			<STL>2</STL>
+			<BLK>1</BLK>
+		</PLAYER>
+		<PLAYER><NAME>Keith,Bogans</NAME>
+ 			<MIN>19.39</MIN>
+			<PTS>8</PTS>
+			<REB>4</REB>
+			<STL>0</STL>
+			<BLK>0</BLK>
+		</PLAYER>
+		<PLAYER><NAME>Derrick,Rose</NAME>
+ 			<MIN>38.03</MIN>
+			<PTS>26</PTS>
+			<REB>0</REB>
+			<STL>2</STL>
+			<BLK>1</BLK>
+		</PLAYER>
+		<PLAYER><NAME>Ronnie,Brewer</NAME>
+ 			<MIN>8.31</MIN>
+			<PTS>0</PTS>
+			<REB>2</REB>
+			<STL>0</STL>
+			<BLK>0</BLK>
+		</PLAYER>
+		<PLAYER><NAME>Taj,Gibson</NAME>
+ 			<MIN>21.36</MIN>
+			<PTS>4</PTS>
+			<REB>4</REB>
+			<STL>0</STL>
+			<BLK>1</BLK>
+		</PLAYER>
+		<PLAYER><NAME>Omer,Asik</NAME>
+ 			<MIN>9.33</MIN>
+			<PTS>2</PTS>
+			<REB>3</REB>
+			<STL>0</STL>
+			<BLK>0</BLK>
+		</PLAYER>
+		<PLAYER><NAME>CJ,Watson</NAME>
+ 			<MIN>14.10</MIN>
+			<PTS>9</PTS>
+			<REB>2</REB>
+			<STL>2</STL>
+			<BLK>0</BLK>
+		</PLAYER>
+		<PLAYER><NAME>Kyle,Korver</NAME>
+ 			<MIN>19.43</MIN>
+			<PTS>4</PTS>
+			<REB>1</REB>
+			<STL>0</STL>
+			<BLK>0</BLK>
+		</PLAYER>
+		<PLAYER><NAME>Rasual,Butler</NAME>
+ 			<MIN>0.0</MIN>
+			<PTS>0</PTS>
+			<REB>0</REB>
+			<STL>0</STL>
+			<BLK>0</BLK>
+		</PLAYER>
+		<PLAYER><NAME>Kurt,Thomas</NAME>
+ 			<MIN>0.0</MIN>
+			<PTS>0</PTS>
+			<REB>0</REB>
+			<STL>0</STL>
+			<BLK>0</BLK>
+		</PLAYER>
+		</TEAM>
+	<TEAM><TEAMNAME>HOME: NEW YORK KNICKS (42-39)
+</TEAMNAME>
+		<PLAYER><NAME>Carmelo,Anthony</NAME>
+ 			<MIN>31.55</MIN>
+			<PTS>21</PTS>
+			<REB>5</REB>
+			<STL>1</STL>
+			<BLK>2</BLK>
+		</PLAYER>		<PLAYER><NAME>Shawne,Williams</NAME>
+ 			<MIN>30.26</MIN>
+			<PTS>10</PTS>
+			<REB>3</REB>
+			<STL>0</STL>
+			<BLK>1</BLK>
+		</PLAYER>		<PLAYER><NAME>Ronny,Turiaf</NAME>
+ 			<MIN>22.55</MIN>
+			<PTS>6</PTS>
+			<REB>4</REB>
+			<STL>1</STL>
+			<BLK>2</BLK>
+		</PLAYER>		<PLAYER><NAME>Chauncey,Billups</NAME>
+ 			<MIN>28.40</MIN>
+			<PTS>10</PTS>
+			<REB>4</REB>
+			<STL>0</STL>
+			<BLK>0</BLK>
+		</PLAYER>		<PLAYER><NAME>Landry,Fields</NAME>
+ 			<MIN>27.51</MIN>
+			<PTS>8</PTS>
+			<REB>4</REB>
+			<STL>0</STL>
+			<BLK>0</BLK>
+		</PLAYER>		<PLAYER><NAME>Jared,Jeffries</NAME>
+ 			<MIN>21.16</MIN>
+			<PTS>2</PTS>
+			<REB>3</REB>
+			<STL>2</STL>
+			<BLK>0</BLK>
+		</PLAYER>		<PLAYER><NAME>Toney,Douglas</NAME>
+ 			<MIN>29.32</MIN>
+			<PTS>13</PTS>
+			<REB>5</REB>
+			<STL>4</STL>
+			<BLK>0</BLK>
+		</PLAYER>		<PLAYER><NAME>Bill,Walker</NAME>
+ 			<MIN>22.00</MIN>
+			<PTS>18</PTS>
+			<REB>3</REB>
+			<STL>0</STL>
+			<BLK>0</BLK>
+		</PLAYER>		<PLAYER><NAME>Anthony,Carter</NAME>
+ 			<MIN>16.07</MIN>
+			<PTS>2</PTS>
+			<REB>2</REB>
+			<STL>2</STL>
+			<BLK>0</BLK>
+		</PLAYER>		<PLAYER><NAME>Derrick,Brown</NAME>
+ 			<MIN>5.36</MIN>
+			<PTS>0</PTS>
+			<REB>0</REB>
+			<STL>0</STL>
+			<BLK>0</BLK>
+		</PLAYER>		<PLAYER><NAME>Shelden,Williams</NAME>
+ 			<MIN>3.42</MIN>
+			<PTS>0</PTS>
+			<REB>0</REB>
+			<STL>0</STL>
+			<BLK>0</BLK>
+		</PLAYER>		</TEAM>
+</GAME>

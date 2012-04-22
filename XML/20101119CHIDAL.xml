@@ -1,0 +1,160 @@
+<?xml version='1.0' encoding='us-ascii'?>
+<?xml-stylesheet type='text/xsl' href='nbaxml.xsl'?>
+ <GAME>
+	<TEAM><TEAMNAME>VISITOR: Chicago Bulls (7-4)
+</TEAMNAME>
+		<PLAYER><NAME>Luol,Deng</NAME>
+ 			<MIN>36.08</MIN>
+			<PTS>8</PTS>
+			<REB>7</REB>
+			<STL>0</STL>
+			<BLK>0</BLK>
+		</PLAYER>
+		<PLAYER><NAME>Taj,Gibson</NAME>
+ 			<MIN>28.50</MIN>
+			<PTS>17</PTS>
+			<REB>18</REB>
+			<STL>0</STL>
+			<BLK>1</BLK>
+		</PLAYER>
+		<PLAYER><NAME>Joakim,Noah</NAME>
+ 			<MIN>40.35</MIN>
+			<PTS>10</PTS>
+			<REB>17</REB>
+			<STL>2</STL>
+			<BLK>0</BLK>
+		</PLAYER>
+		<PLAYER><NAME>Keith,Bogans</NAME>
+ 			<MIN>18.56</MIN>
+			<PTS>0</PTS>
+			<REB>1</REB>
+			<STL>0</STL>
+			<BLK>0</BLK>
+		</PLAYER>
+		<PLAYER><NAME>Derrick,Rose</NAME>
+ 			<MIN>40.51</MIN>
+			<PTS>22</PTS>
+			<REB>4</REB>
+			<STL>1</STL>
+			<BLK>0</BLK>
+		</PLAYER>
+		<PLAYER><NAME>Omer,Asik</NAME>
+ 			<MIN>9.58</MIN>
+			<PTS>0</PTS>
+			<REB>3</REB>
+			<STL>0</STL>
+			<BLK>2</BLK>
+		</PLAYER>
+		<PLAYER><NAME>Ronnie,Brewer</NAME>
+ 			<MIN>20.50</MIN>
+			<PTS>4</PTS>
+			<REB>5</REB>
+			<STL>0</STL>
+			<BLK>0</BLK>
+		</PLAYER>
+		<PLAYER><NAME>Kyle,Korver</NAME>
+ 			<MIN>26.19</MIN>
+			<PTS>14</PTS>
+			<REB>2</REB>
+			<STL>0</STL>
+			<BLK>0</BLK>
+		</PLAYER>
+		<PLAYER><NAME>CJ,Watson</NAME>
+ 			<MIN>17.33</MIN>
+			<PTS>13</PTS>
+			<REB>2</REB>
+			<STL>0</STL>
+			<BLK>0</BLK>
+		</PLAYER>
+		<PLAYER><NAME>James,Johnson</NAME>
+ 			<MIN>0.0</MIN>
+			<PTS>0</PTS>
+			<REB>0</REB>
+			<STL>0</STL>
+			<BLK>0</BLK>
+		</PLAYER>
+		<PLAYER><NAME>Brian,Scalabrine</NAME>
+ 			<MIN>0.0</MIN>
+			<PTS>0</PTS>
+			<REB>0</REB>
+			<STL>0</STL>
+			<BLK>0</BLK>
+		</PLAYER>
+		<PLAYER><NAME>Kurt,Thomas</NAME>
+ 			<MIN>0.0</MIN>
+			<PTS>0</PTS>
+			<REB>0</REB>
+			<STL>0</STL>
+			<BLK>0</BLK>
+		</PLAYER>
+		</TEAM>
+	<TEAM><TEAMNAME>HOME: DALLAS MAVERICKS (7-4)
+</TEAMNAME>
+		<PLAYER><NAME>Caron,Butler</NAME>
+ 			<MIN>31.27</MIN>
+			<PTS>12</PTS>
+			<REB>5</REB>
+			<STL>1</STL>
+			<BLK>0</BLK>
+		</PLAYER>		<PLAYER><NAME>Dirk,Nowitzki</NAME>
+ 			<MIN>41.58</MIN>
+			<PTS>36</PTS>
+			<REB>8</REB>
+			<STL>2</STL>
+			<BLK>0</BLK>
+		</PLAYER>		<PLAYER><NAME>Tyson,Chandler</NAME>
+ 			<MIN>28.22</MIN>
+			<PTS>8</PTS>
+			<REB>10</REB>
+			<STL>0</STL>
+			<BLK>3</BLK>
+		</PLAYER>		<PLAYER><NAME>DeShawn,Stevenson</NAME>
+ 			<MIN>6.04</MIN>
+			<PTS>0</PTS>
+			<REB>0</REB>
+			<STL>0</STL>
+			<BLK>0</BLK>
+		</PLAYER>		<PLAYER><NAME>Jason,Kidd</NAME>
+ 			<MIN>33.49</MIN>
+			<PTS>3</PTS>
+			<REB>1</REB>
+			<STL>0</STL>
+			<BLK>0</BLK>
+		</PLAYER>		<PLAYER><NAME>Jason,Terry</NAME>
+ 			<MIN>37.30</MIN>
+			<PTS>9</PTS>
+			<REB>3</REB>
+			<STL>2</STL>
+			<BLK>0</BLK>
+		</PLAYER>		<PLAYER><NAME>Shawn,Marion</NAME>
+ 			<MIN>24.21</MIN>
+			<PTS>8</PTS>
+			<REB>3</REB>
+			<STL>1</STL>
+			<BLK>1</BLK>
+		</PLAYER>		<PLAYER><NAME>Brendan,Haywood</NAME>
+ 			<MIN>17.17</MIN>
+			<PTS>7</PTS>
+			<REB>4</REB>
+			<STL>0</STL>
+			<BLK>1</BLK>
+		</PLAYER>		<PLAYER><NAME>JJ,Barea</NAME>
+ 			<MIN>19.13</MIN>
+			<PTS>0</PTS>
+			<REB>0</REB>
+			<STL>0</STL>
+			<BLK>0</BLK>
+		</PLAYER>		<PLAYER><NAME>Brian,Cardinal</NAME>
+ 			<MIN>0.0</MIN>
+			<PTS>0</PTS>
+			<REB>0</REB>
+			<STL>0</STL>
+			<BLK>0</BLK>
+		</PLAYER>		<PLAYER><NAME>Dominique,Jones</NAME>
+ 			<MIN>0.0</MIN>
+			<PTS>0</PTS>
+			<REB>0</REB>
+			<STL>0</STL>
+			<BLK>0</BLK>
+		</PLAYER>		</TEAM>
+</GAME>

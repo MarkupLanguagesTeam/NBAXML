@@ -1,0 +1,160 @@
+<?xml version='1.0' encoding='us-ascii'?>
+<?xml-stylesheet type='text/xsl' href='nbaxml.xsl'?>
+ <GAME>
+	<TEAM><TEAMNAME>VISITOR: Chicago Bulls (8-6)
+</TEAMNAME>
+		<PLAYER><NAME>Luol,Deng</NAME>
+ 			<MIN>40.44</MIN>
+			<PTS>24</PTS>
+			<REB>11</REB>
+			<STL>0</STL>
+			<BLK>1</BLK>
+		</PLAYER>
+		<PLAYER><NAME>Taj,Gibson</NAME>
+ 			<MIN>11.40</MIN>
+			<PTS>0</PTS>
+			<REB>0</REB>
+			<STL>0</STL>
+			<BLK>1</BLK>
+		</PLAYER>
+		<PLAYER><NAME>Joakim,Noah</NAME>
+ 			<MIN>39.17</MIN>
+			<PTS>17</PTS>
+			<REB>16</REB>
+			<STL>1</STL>
+			<BLK>0</BLK>
+		</PLAYER>
+		<PLAYER><NAME>Keith,Bogans</NAME>
+ 			<MIN>18.52</MIN>
+			<PTS>5</PTS>
+			<REB>1</REB>
+			<STL>0</STL>
+			<BLK>0</BLK>
+		</PLAYER>
+		<PLAYER><NAME>CJ,Watson</NAME>
+ 			<MIN>43.46</MIN>
+			<PTS>33</PTS>
+			<REB>3</REB>
+			<STL>2</STL>
+			<BLK>0</BLK>
+		</PLAYER>
+		<PLAYER><NAME>Omer,Asik</NAME>
+ 			<MIN>18.09</MIN>
+			<PTS>2</PTS>
+			<REB>3</REB>
+			<STL>1</STL>
+			<BLK>1</BLK>
+		</PLAYER>
+		<PLAYER><NAME>James,Johnson</NAME>
+ 			<MIN>17.50</MIN>
+			<PTS>4</PTS>
+			<REB>1</REB>
+			<STL>2</STL>
+			<BLK>2</BLK>
+		</PLAYER>
+		<PLAYER><NAME>Ronnie,Brewer</NAME>
+ 			<MIN>20.23</MIN>
+			<PTS>2</PTS>
+			<REB>5</REB>
+			<STL>1</STL>
+			<BLK>0</BLK>
+		</PLAYER>
+		<PLAYER><NAME>Kyle,Korver</NAME>
+ 			<MIN>24.54</MIN>
+			<PTS>8</PTS>
+			<REB>2</REB>
+			<STL>1</STL>
+			<BLK>0</BLK>
+		</PLAYER>
+		<PLAYER><NAME>John,Lucas</NAME>
+ 			<MIN>4.25</MIN>
+			<PTS>2</PTS>
+			<REB>0</REB>
+			<STL>0</STL>
+			<BLK>0</BLK>
+		</PLAYER>
+		<PLAYER><NAME>Brian,Scalabrine</NAME>
+ 			<MIN>0.0</MIN>
+			<PTS>0</PTS>
+			<REB>0</REB>
+			<STL>0</STL>
+			<BLK>0</BLK>
+		</PLAYER>
+		<PLAYER><NAME>Kurt,Thomas</NAME>
+ 			<MIN>0.0</MIN>
+			<PTS>0</PTS>
+			<REB>0</REB>
+			<STL>0</STL>
+			<BLK>0</BLK>
+		</PLAYER>
+		</TEAM>
+	<TEAM><TEAMNAME>HOME: DENVER NUGGETS (9-6)
+</TEAMNAME>
+		<PLAYER><NAME>Carmelo,Anthony</NAME>
+ 			<MIN>39.20</MIN>
+			<PTS>22</PTS>
+			<REB>6</REB>
+			<STL>0</STL>
+			<BLK>1</BLK>
+		</PLAYER>		<PLAYER><NAME>Shelden,Williams</NAME>
+ 			<MIN>14.15</MIN>
+			<PTS>4</PTS>
+			<REB>3</REB>
+			<STL>0</STL>
+			<BLK>1</BLK>
+		</PLAYER>		<PLAYER><NAME>Nene,C</NAME>
+ 			<MIN>26.20</MIN>
+			<PTS>18</PTS>
+			<REB>7</REB>
+			<STL>0</STL>
+			<BLK>2</BLK>
+		</PLAYER>		<PLAYER><NAME>Arron,Afflalo</NAME>
+ 			<MIN>34.28</MIN>
+			<PTS>13</PTS>
+			<REB>5</REB>
+			<STL>0</STL>
+			<BLK>0</BLK>
+		</PLAYER>		<PLAYER><NAME>Ty,Lawson</NAME>
+ 			<MIN>33.31</MIN>
+			<PTS>17</PTS>
+			<REB>1</REB>
+			<STL>1</STL>
+			<BLK>0</BLK>
+		</PLAYER>		<PLAYER><NAME>Al,Harrington</NAME>
+ 			<MIN>22.22</MIN>
+			<PTS>5</PTS>
+			<REB>3</REB>
+			<STL>0</STL>
+			<BLK>1</BLK>
+		</PLAYER>		<PLAYER><NAME>Chris,Andersen</NAME>
+ 			<MIN>20.28</MIN>
+			<PTS>6</PTS>
+			<REB>4</REB>
+			<STL>1</STL>
+			<BLK>2</BLK>
+		</PLAYER>		<PLAYER><NAME>J,R</NAME>
+ 			<MIN>27.52</MIN>
+			<PTS>9</PTS>
+			<REB>9</REB>
+			<STL>0</STL>
+			<BLK>0</BLK>
+		</PLAYER>		<PLAYER><NAME>Anthony,Carter</NAME>
+ 			<MIN>14.40</MIN>
+			<PTS>2</PTS>
+			<REB>3</REB>
+			<STL>2</STL>
+			<BLK>0</BLK>
+		</PLAYER>		<PLAYER><NAME>Gary,Forbes</NAME>
+ 			<MIN>6.44</MIN>
+			<PTS>2</PTS>
+			<REB>0</REB>
+			<STL>0</STL>
+			<BLK>0</BLK>
+		</PLAYER>		<PLAYER><NAME>Renaldo,Balkman</NAME>
+ 			<MIN>0.0</MIN>
+			<PTS>0</PTS>
+			<REB>0</REB>
+			<STL>0</STL>
+			<BLK>0</BLK>
+		</PLAYER>		</TEAM>
+</GAME>

@@ -1,0 +1,160 @@
+<?xml version='1.0' encoding='us-ascii'?>
+<?xml-stylesheet type='text/xsl' href='nbaxml.xsl'?>
+ <GAME>
+	<TEAM><TEAMNAME>VISITOR: Chicago Bulls (4-2)
+</TEAMNAME>
+		<PLAYER><NAME>Luol,Deng</NAME>
+ 			<MIN>39.31</MIN>
+			<PTS>13</PTS>
+			<REB>5</REB>
+			<STL>5</STL>
+			<BLK>0</BLK>
+		</PLAYER>
+		<PLAYER><NAME>Carlos,Boozer</NAME>
+ 			<MIN>34.43</MIN>
+			<PTS>23</PTS>
+			<REB>10</REB>
+			<STL>1</STL>
+			<BLK>0</BLK>
+		</PLAYER>
+		<PLAYER><NAME>Joakim,Noah</NAME>
+ 			<MIN>27.22</MIN>
+			<PTS>11</PTS>
+			<REB>6</REB>
+			<STL>0</STL>
+			<BLK>3</BLK>
+		</PLAYER>
+		<PLAYER><NAME>Keith,Bogans</NAME>
+ 			<MIN>21.47</MIN>
+			<PTS>3</PTS>
+			<REB>0</REB>
+			<STL>0</STL>
+			<BLK>0</BLK>
+		</PLAYER>
+		<PLAYER><NAME>Derrick,Rose</NAME>
+ 			<MIN>37.48</MIN>
+			<PTS>19</PTS>
+			<REB>4</REB>
+			<STL>0</STL>
+			<BLK>0</BLK>
+		</PLAYER>
+		<PLAYER><NAME>Omer,Asik</NAME>
+ 			<MIN>20.10</MIN>
+			<PTS>5</PTS>
+			<REB>3</REB>
+			<STL>0</STL>
+			<BLK>2</BLK>
+		</PLAYER>
+		<PLAYER><NAME>Ronnie,Brewer</NAME>
+ 			<MIN>15.30</MIN>
+			<PTS>2</PTS>
+			<REB>1</REB>
+			<STL>0</STL>
+			<BLK>0</BLK>
+		</PLAYER>
+		<PLAYER><NAME>Kyle,Korver</NAME>
+ 			<MIN>19.12</MIN>
+			<PTS>7</PTS>
+			<REB>0</REB>
+			<STL>0</STL>
+			<BLK>0</BLK>
+		</PLAYER>
+		<PLAYER><NAME>CJ,Watson</NAME>
+ 			<MIN>10.12</MIN>
+			<PTS>0</PTS>
+			<REB>2</REB>
+			<STL>1</STL>
+			<BLK>0</BLK>
+		</PLAYER>
+		<PLAYER><NAME>Taj,Gibson</NAME>
+ 			<MIN>13.45</MIN>
+			<PTS>10</PTS>
+			<REB>4</REB>
+			<STL>0</STL>
+			<BLK>1</BLK>
+		</PLAYER>
+		<PLAYER><NAME>Rasual,Butler</NAME>
+ 			<MIN>0.0</MIN>
+			<PTS>0</PTS>
+			<REB>0</REB>
+			<STL>0</STL>
+			<BLK>0</BLK>
+		</PLAYER>
+		<PLAYER><NAME>Kurt,Thomas</NAME>
+ 			<MIN>0.0</MIN>
+			<PTS>0</PTS>
+			<REB>0</REB>
+			<STL>0</STL>
+			<BLK>0</BLK>
+		</PLAYER>
+		</TEAM>
+	<TEAM><TEAMNAME>HOME: ATLANTA HAWKS (2-4)
+</TEAMNAME>
+		<PLAYER><NAME>Josh,Smith</NAME>
+ 			<MIN>38.56</MIN>
+			<PTS>18</PTS>
+			<REB>5</REB>
+			<STL>3</STL>
+			<BLK>2</BLK>
+		</PLAYER>		<PLAYER><NAME>Al,Horford</NAME>
+ 			<MIN>37.26</MIN>
+			<PTS>7</PTS>
+			<REB>4</REB>
+			<STL>1</STL>
+			<BLK>0</BLK>
+		</PLAYER>		<PLAYER><NAME>Jason,Collins</NAME>
+ 			<MIN>16.47</MIN>
+			<PTS>4</PTS>
+			<REB>1</REB>
+			<STL>0</STL>
+			<BLK>0</BLK>
+		</PLAYER>		<PLAYER><NAME>Joe,Johnson</NAME>
+ 			<MIN>41.19</MIN>
+			<PTS>19</PTS>
+			<REB>3</REB>
+			<STL>0</STL>
+			<BLK>0</BLK>
+		</PLAYER>		<PLAYER><NAME>Jeff,Teague</NAME>
+ 			<MIN>22.25</MIN>
+			<PTS>4</PTS>
+			<REB>2</REB>
+			<STL>0</STL>
+			<BLK>0</BLK>
+		</PLAYER>		<PLAYER><NAME>Jamal,Crawford</NAME>
+ 			<MIN>24.44</MIN>
+			<PTS>8</PTS>
+			<REB>1</REB>
+			<STL>1</STL>
+			<BLK>0</BLK>
+		</PLAYER>		<PLAYER><NAME>Zaza,Pachulia</NAME>
+ 			<MIN>22.41</MIN>
+			<PTS>1</PTS>
+			<REB>13</REB>
+			<STL>1</STL>
+			<BLK>0</BLK>
+		</PLAYER>		<PLAYER><NAME>Marvin,Williams</NAME>
+ 			<MIN>15.06</MIN>
+			<PTS>0</PTS>
+			<REB>1</REB>
+			<STL>1</STL>
+			<BLK>1</BLK>
+		</PLAYER>		<PLAYER><NAME>Hilton,Armstrong</NAME>
+ 			<MIN>5.13</MIN>
+			<PTS>3</PTS>
+			<REB>1</REB>
+			<STL>1</STL>
+			<BLK>0</BLK>
+		</PLAYER>		<PLAYER><NAME>Pape,Sy</NAME>
+ 			<MIN>5.13</MIN>
+			<PTS>5</PTS>
+			<REB>0</REB>
+			<STL>0</STL>
+			<BLK>0</BLK>
+		</PLAYER>		<PLAYER><NAME>Josh,Powell</NAME>
+ 			<MIN>5.13</MIN>
+			<PTS>2</PTS>
+			<REB>1</REB>
+			<STL>0</STL>
+			<BLK>0</BLK>
+		</PLAYER>		</TEAM>
+</GAME>

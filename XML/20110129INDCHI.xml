@@ -1,0 +1,19 @@
+<?xml version='1.0' encoding='us-ascii'?>
+<?xml-stylesheet type='text/xsl' href='nbaxml.xsl'?>
+ <GAME>
+	<TEAM><TEAMNAME>VISITOR: Indiana Pacers (17-27)
+</TEAMNAME>
+		<PLAYER><NAME>Danny,Granger</NAME>
+ 			<MIN>40.52</MIN>
+			<PTS>19</PTS>
+			<REB>6</REB>
+			<STL>0</STL>
+			<BLK>1</BLK>
+		</PLAYER>
+		<PLAYER><NAME>Josh,McRoberts</NAME>
+ 			<MIN>27.17</MIN>
+			<PTS>01</PTS>
+			<REB>8</REB>
+			<STL>1</STL>
+			<BLK>40</BLK>
+		</PLAYER>
