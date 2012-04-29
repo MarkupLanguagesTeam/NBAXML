@@ -1,0 +1,12 @@
+<?xml version='1.0' encoding='us-ascii'?>
+<?xml-stylesheet type='text/xsl' href='nbaxml.xsl'?>
+ <GAME>
+	<TEAM><TEAMNAME>        VISITOR: Miami Heat (3-1)
+</TEAMNAME>
+		<PLAYER><NAME>LeBron,James</NAME>
+ 			<MIN>43.33</MIN>
+			<PTS>31</PTS>
+			<REB>7</REB>
+			<STL>1</STL>
+			<BLK>1</BLK>
+		</PLAYER>

@@ -1,0 +1,370 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<Project ToolsVersion="4.0" DefaultTargets="Build" xmlns="http://schemas.microsoft.com/developer/msbuild/2003">
+  <PropertyGroup>
+    <Configuration Condition=" '$(Configuration)' == '' ">Debug</Configuration>
+    <Platform Condition=" '$(Platform)' == '' ">AnyCPU</Platform>
+    <ProductVersion>
+    </ProductVersion>
+    <SchemaVersion>2.0</SchemaVersion>
+    <ProjectGuid>{DF72C0FB-C9F5-4335-BEED-DF7A420F6CD0}</ProjectGuid>
+    <ProjectTypeGuids>{349c5851-65df-11da-9384-00065b846f21};{fae04ec0-301f-11d3-bf4b-00c04f79efbc}</ProjectTypeGuids>
+    <OutputType>Library</OutputType>
+    <AppDesignerFolder>Properties</AppDesignerFolder>
+    <RootNamespace>NbaXmlWebapp</RootNamespace>
+    <AssemblyName>NbaXmlWebapp</AssemblyName>
+    <TargetFrameworkVersion>v4.0</TargetFrameworkVersion>
+  </PropertyGroup>
+  <PropertyGroup Condition=" '$(Configuration)|$(Platform)' == 'Debug|AnyCPU' ">
+    <DebugSymbols>true</DebugSymbols>
+    <DebugType>full</DebugType>
+    <Optimize>false</Optimize>
+    <OutputPath>bin\</OutputPath>
+    <DefineConstants>DEBUG;TRACE</DefineConstants>
+    <ErrorReport>prompt</ErrorReport>
+    <WarningLevel>4</WarningLevel>
+  </PropertyGroup>
+  <PropertyGroup Condition=" '$(Configuration)|$(Platform)' == 'Release|AnyCPU' ">
+    <DebugType>pdbonly</DebugType>
+    <Optimize>true</Optimize>
+    <OutputPath>bin\</OutputPath>
+    <DefineConstants>TRACE</DefineConstants>
+    <ErrorReport>prompt</ErrorReport>
+    <WarningLevel>4</WarningLevel>
+  </PropertyGroup>
+  <ItemGroup>
+    <Reference Include="Microsoft.CSharp" />
+    <Reference Include="System" />
+    <Reference Include="System.Data" />
+    <Reference Include="System.Core" />
+    <Reference Include="System.Data.DataSetExtensions" />
+    <Reference Include="System.Web.Extensions" />
+    <Reference Include="System.Xml.Linq" />
+    <Reference Include="System.Drawing" />
+    <Reference Include="System.Web" />
+    <Reference Include="System.Xml" />
+    <Reference Include="System.Configuration" />
+    <Reference Include="System.Web.Services" />
+    <Reference Include="System.EnterpriseServices" />
+    <Reference Include="System.Web.DynamicData" />
+    <Reference Include="System.Web.Entity" />
+    <Reference Include="System.Web.ApplicationServices" />
+  </ItemGroup>
+  <ItemGroup>
+    <Content Include="About.aspx" />
+    <Content Include="Account\ChangePassword.aspx" />
+    <Content Include="Account\ChangePasswordSuccess.aspx" />
+    <Content Include="Account\Login.aspx" />
+    <Content Include="Account\Register.aspx" />
+    <Content Include="details.aspx" />
+    <Content Include="Styles\Site.css" />
+    <Content Include="Default.aspx" />
+    <Content Include="Global.asax" />
+    <Content Include="Scripts\jquery-1.4.1-vsdoc.js" />
+    <Content Include="Scripts\jquery-1.4.1.js" />
+    <Content Include="Scripts\jquery-1.4.1.min.js" />
+    <Content Include="Web.config" />
+    <Content Include="Web.Debug.config">
+      <DependentUpon>Web.config</DependentUpon>
+    </Content>
+    <Content Include="Web.Release.config">
+      <DependentUpon>Web.config</DependentUpon>
+    </Content>
+    <Content Include="Xml\20101026MIABOS.xml" />
+    <Content Include="Xml\20101027MIAPHI.xml" />
+    <Content Include="Xml\20101029ORLMIA.xml" />
+    <Content Include="Xml\20101031MIANJN.xml" />
+    <Content Include="Xml\20101101PORCHI.xml" />
+    <Content Include="Xml\20101102MINMIA.xml" />
+    <Content Include="Xml\20101104NYKCHI.xml" />
+    <Content Include="Xml\20101105CHIBOS.xml" />
+    <Content Include="Xml\20101105MIANOH.xml" />
+    <Content Include="Xml\20101106NJNMIA.xml" />
+    <Content Include="Xml\20101108DENCHI.xml" />
+    <Content Include="Xml\20101109UTAMIA.xml" />
+    <Content Include="Xml\20101111BOSMIA.xml" />
+    <Content Include="Xml\20101111GSWCHI.xml" />
+    <Content Include="Xml\20101113TORMIA.xml" />
+    <Content Include="Xml\20101113WASCHI.xml" />
+    <Content Include="Xml\20101116CHIHOU.xml" />
+    <Content Include="Xml\20101117CHISAS.xml" />
+    <Content Include="Xml\20101117PHXMIA.xml" />
+    <Content Include="Xml\20101119CHAMIA.xml" />
+    <Content Include="Xml\20101119CHIDAL.xml" />
+    <Content Include="Xml\20101120MIAMEM.xml" />
+    <Content Include="Xml\20101122INDMIA.xml" />
+    <Content Include="Xml\20101123CHILAL.xml" />
+    <Content Include="Xml\20101124CHIPHX.xml" />
+    <Content Include="Xml\20101124MIAORL.xml" />
+    <Content Include="Xml\20101126CHIDEN.xml" />
+    <Content Include="Xml\20101126PHIMIA.xml" />
+    <Content Include="Xml\20101127CHISAC.xml" />
+    <Content Include="Xml\20101127MIADAL.xml" />
+    <Content Include="Xml\20101129WASMIA.xml" />
+    <Content Include="Xml\20101201DETMIA.xml" />
+    <Content Include="Xml\20101201ORLCHI.xml" />
+    <Content Include="Xml\20101202MIACLE.xml" />
+    <Content Include="Xml\20101203CHIBOS.xml" />
+    <Content Include="Xml\20101204ATLMIA.xml" />
+    <Content Include="Xml\20101204HOUCHI.xml" />
+    <Content Include="Xml\20101206MIAMIL.xml" />
+    <Content Include="Xml\20101206OKCCHI.xml" />
+    <Content Include="Xml\20101208CHICLE.xml" />
+    <Content Include="Xml\20101208MIAUTA.xml" />
+    <Content Include="Xml\20101210LALCHI.xml" />
+    <Content Include="Xml\20101210MIAGSW.xml" />
+    <Content Include="Xml\20101211MIASAC.xml" />
+    <Content Include="Xml\20101211MINCHI.xml" />
+    <Content Include="Xml\20101213INDCHI.xml" />
+    <Content Include="Xml\20101213NOHMIA.xml" />
+    <Content Include="Xml\20101215CHITOR.xml" />
+    <Content Include="Xml\20101215CLEMIA.xml" />
+    <Content Include="Xml\20101217MIANYK.xml" />
+    <Content Include="Xml\20101218LACCHI.xml" />
+    <Content Include="Xml\20101218MIAWAS.xml" />
+    <Content Include="Xml\20101220DALMIA.xml" />
+    <Content Include="Xml\20101221PHICHI.xml" />
+    <Content Include="Xml\20101222CHIWAS.xml" />
+    <Content Include="Xml\20101223MIAPHX.xml" />
+    <Content Include="Xml\20101225CHINYK.xml" />
+    <Content Include="Xml\20101225MIALAL.xml" />
+    <Content Include="Xml\20101226CHIDET.xml" />
+    <Content Include="Xml\20101228MILCHI.xml" />
+    <Content Include="Xml\20101228NYKMIA.xml" />
+    <Content Include="Xml\20101229MIAHOU.xml" />
+    <Content Include="Xml\20101231NJNCHI.xml" />
+    <Content Include="Xml\20110101CLECHI.xml" />
+    <Content Include="Xml\20110101GSWMIA.xml" />
+    <Content Include="Xml\20110103MIACHA.xml" />
+    <Content Include="Xml\20110104MILMIA.xml" />
+    <Content Include="Xml\20110104TORCHI.xml" />
+    <Content Include="Xml\20110105CHINJN.xml" />
+    <Content Include="Xml\20110107CHIPHI.xml" />
+    <Content Include="Xml\20110107MIAMIL.xml" />
+    <Content Include="Xml\20110108BOSCHI.xml" />
+    <Content Include="Xml\20110109MIAPOR.xml" />
+    <Content Include="Xml\20110110DETCHI.xml" />
+    <Content Include="Xml\20110112CHICHA.xml" />
+    <Content Include="Xml\20110112MIALAC.xml" />
+    <Content Include="Xml\20110113MIADEN.xml" />
+    <Content Include="Xml\20110114CHIIND.xml" />
+    <Content Include="Xml\20110115MIACHI %282%29.xml" />
+    <Content Include="Xml\20110115MIACHI.xml" />
+    <Content Include="Xml\20110117CHIMEM.xml" />
+    <Content Include="Xml\20110118ATLMIA.xml" />
+    <Content Include="Xml\20110118CHACHI.xml" />
+    <Content Include="Xml\20110120DALCHI.xml" />
+    <Content Include="Xml\20110122CLECHI.xml" />
+    <Content Include="Xml\20110122TORMIA.xml" />
+    <Content Include="Xml\20110124MILCHI.xml" />
+    <Content Include="Xml\20110127MIANYK.xml" />
+    <Content Include="Xml\20110128DETMIA.xml" />
+    <Content Include="Xml\20110128ORLCHI.xml" />
+    <Content Include="Xml\20110129INDCHI.xml" />
+    <Content Include="Xml\20110130MIAOKC.xml" />
+    <Content Include="Xml\20110131CLEMIA.xml" />
+    <Content Include="Xml\20110202CHILAC.xml" />
+    <Content Include="Xml\20110203MIAORL.xml" />
+    <Content Include="Xml\20110204MIACHA.xml" />
+    <Content Include="Xml\20110205CHIGSW.xml" />
+    <Content Include="Xml\20110206LACMIA.xml" />
+    <Content Include="Xml\20110207CHIPOR.xml" />
+    <Content Include="Xml\20110208INDMIA.xml" />
+    <Content Include="Xml\20110209CHIUTA.xml" />
+    <Content Include="Xml\20110211MIADET.xml" />
+    <Content Include="Xml\20110212CHINOH.xml" />
+    <Content Include="Xml\20110213MIABOS.xml" />
+    <Content Include="Xml\20110215CHACHI.xml" />
+    <Content Include="Xml\20110215MIAIND.xml" />
+    <Content Include="Xml\20110216MIATOR.xml" />
+    <Content Include="Xml\20110217SASCHI.xml" />
+    <Content Include="Xml\20110222SACMIA.xml" />
+    <Content Include="Xml\20110223CHITOR.xml" />
+    <Content Include="Xml\20110224MIACHI %282%29.xml" />
+    <Content Include="Xml\20110224MIACHI.xml" />
+    <Content Include="Xml\20110225WASMIA.xml" />
+    <Content Include="Xml\20110226CHIMIL.xml" />
+    <Content Include="Xml\20110227NYKMIA.xml" />
+    <Content Include="Xml\20110228CHIWAS.xml" />
+    <Content Include="Xml\20110302CHIATL.xml" />
+    <Content Include="Xml\20110303ORLMIA.xml" />
+    <Content Include="Xml\20110304CHIORL.xml" />
+    <Content Include="Xml\20110304MIASAS.xml" />
+    <Content Include="Xml\20110306CHIMIA %282%29.xml" />
+    <Content Include="Xml\20110306CHIMIA.xml" />
+    <Content Include="Xml\20110307NOHCHI.xml" />
+    <Content Include="Xml\20110308PORMIA.xml" />
+    <Content Include="Xml\20110309CHICHA.xml" />
+    <Content Include="Xml\20110310LALMIA.xml" />
+    <Content Include="Xml\20110311ATLCHI.xml" />
+    <Content Include="Xml\20110312MEMMIA.xml" />
+    <Content Include="Xml\20110312UTACHI.xml" />
+    <Content Include="Xml\20110314SASMIA.xml" />
+    <Content Include="Xml\20110315WASCHI.xml" />
+    <Content Include="Xml\20110316OKCMIA.xml" />
+    <Content Include="Xml\20110317CHINJN.xml" />
+    <Content Include="Xml\20110318CHIIND.xml" />
+    <Content Include="Xml\20110318MIAATL.xml" />
+    <Content Include="Xml\20110319DENMIA.xml" />
+    <Content Include="Xml\20110321SACCHI.xml" />
+    <Content Include="Xml\20110322CHIATL.xml" />
+    <Content Include="Xml\20110323MIADET.xml" />
+    <Content Include="Xml\20110325MEMCHI.xml" />
+    <Content Include="Xml\20110325PHIMIA.xml" />
+    <Content Include="Xml\20110326CHIMIL.xml" />
+    <Content Include="Xml\20110327HOUMIA.xml" />
+    <Content Include="Xml\20110328PHICHI.xml" />
+    <Content Include="Xml\20110329MIACLE.xml" />
+    <Content Include="Xml\20110330CHIMIN.xml" />
+    <Content Include="Xml\20110330MIAWAS.xml" />
+    <Content Include="Xml\20110401CHIDET.xml" />
+    <Content Include="Xml\20110401MIAMIN.xml" />
+    <Content Include="Xml\20110402TORCHI.xml" />
+    <Content Include="Xml\20110403MIANJN.xml" />
+    <Content Include="Xml\20110405PHXCHI.xml" />
+    <Content Include="Xml\20110406MILMIA.xml" />
+    <Content Include="Xml\20110407BOSCHI.xml" />
+    <Content Include="Xml\20110408CHAMIA.xml" />
+    <Content Include="Xml\20110408CHICLE.xml" />
+    <Content Include="Xml\20110410BOSMIA.xml" />
+    <Content Include="Xml\20110410CHIORL.xml" />
+    <Content Include="Xml\20110411MIAATL.xml" />
+    <Content Include="Xml\20110412CHINYK.xml" />
+    <Content Include="Xml\20110413MIATOR.xml" />
+    <Content Include="Xml\20110413NJNCHI.xml" />
+    <Content Include="Xml\20110416INDCHI.xml" />
+    <Content Include="Xml\20110416PHIMIA.xml" />
+    <Content Include="Xml\20110418INDCHI.xml" />
+    <Content Include="Xml\20110418PHIMIA.xml" />
+    <Content Include="Xml\20110421CHIIND.xml" />
+    <Content Include="Xml\20110421MIAPHI.xml" />
+    <Content Include="Xml\20110423CHIIND.xml" />
+    <Content Include="Xml\20110424MIAPHI.xml" />
+    <Content Include="Xml\20110426INDCHI.xml" />
+    <Content Include="Xml\20110427PHIMIA.xml" />
+    <Content Include="Xml\20110501BOSMIA.xml" />
+    <Content Include="Xml\20110502ATLCHI.xml" />
+    <Content Include="Xml\20110503BOSMIA.xml" />
+    <Content Include="Xml\20110504ATLCHI.xml" />
+    <Content Include="Xml\20110506CHIATL.xml" />
+    <Content Include="Xml\20110507MIABOS.xml" />
+    <Content Include="Xml\20110508CHIATL.xml" />
+    <Content Include="Xml\20110509MIABOS.xml" />
+    <Content Include="Xml\20110510ATLCHI.xml" />
+    <Content Include="Xml\20110511BOSMIA.xml" />
+    <Content Include="Xml\20110512CHIATL.xml" />
+    <Content Include="Xml\20110515MIACHI %282%29.xml" />
+    <Content Include="Xml\20110515MIACHI.xml" />
+    <Content Include="Xml\20110518MIACHI %282%29.xml" />
+    <Content Include="Xml\20110518MIACHI.xml" />
+    <Content Include="Xml\20110522CHIMIA %282%29.xml" />
+    <Content Include="Xml\20110522CHIMIA.xml" />
+    <Content Include="Xml\20110524CHIMIA %282%29.xml" />
+    <Content Include="Xml\20110524CHIMIA.xml" />
+    <Content Include="Xml\20110526MIACHI %282%29.xml" />
+    <Content Include="Xml\20110526MIACHI.xml" />
+    <Content Include="Xml\20110531DALMIA.xml" />
+    <Content Include="Xml\20110602DALMIA.xml" />
+    <Content Include="Xml\20110605MIADAL.xml" />
+    <Content Include="Xml\20110607MIADAL.xml" />
+    <Content Include="Xml\20110609MIADAL.xml" />
+    <Content Include="Xml\20110612DALMIA.xml" />
+    <Content Include="Xml\nbaxml.xsl" />
+  </ItemGroup>
+  <ItemGroup>
+    <Compile Include="About.aspx.cs">
+      <DependentUpon>About.aspx</DependentUpon>
+      <SubType>ASPXCodeBehind</SubType>
+    </Compile>
+    <Compile Include="About.aspx.designer.cs">
+      <DependentUpon>About.aspx</DependentUpon>
+    </Compile>
+    <Compile Include="Account\ChangePassword.aspx.cs">
+      <DependentUpon>ChangePassword.aspx</DependentUpon>
+      <SubType>ASPXCodeBehind</SubType>
+    </Compile>
+    <Compile Include="Account\ChangePassword.aspx.designer.cs">
+      <DependentUpon>ChangePassword.aspx</DependentUpon>
+    </Compile>
+    <Compile Include="Account\ChangePasswordSuccess.aspx.cs">
+      <DependentUpon>ChangePasswordSuccess.aspx</DependentUpon>
+      <SubType>ASPXCodeBehind</SubType>
+    </Compile>
+    <Compile Include="Account\ChangePasswordSuccess.aspx.designer.cs">
+      <DependentUpon>ChangePasswordSuccess.aspx</DependentUpon>
+    </Compile>
+    <Compile Include="Account\Login.aspx.cs">
+      <DependentUpon>Login.aspx</DependentUpon>
+      <SubType>ASPXCodeBehind</SubType>
+    </Compile>
+    <Compile Include="Account\Login.aspx.designer.cs">
+      <DependentUpon>Login.aspx</DependentUpon>
+    </Compile>
+    <Compile Include="Account\Register.aspx.cs">
+      <DependentUpon>Register.aspx</DependentUpon>
+      <SubType>ASPXCodeBehind</SubType>
+    </Compile>
+    <Compile Include="Account\Register.aspx.designer.cs">
+      <DependentUpon>Register.aspx</DependentUpon>
+    </Compile>
+    <Compile Include="Default.aspx.cs">
+      <DependentUpon>Default.aspx</DependentUpon>
+      <SubType>ASPXCodeBehind</SubType>
+    </Compile>
+    <Compile Include="Default.aspx.designer.cs">
+      <DependentUpon>Default.aspx</DependentUpon>
+    </Compile>
+    <Compile Include="details.aspx.cs">
+      <DependentUpon>details.aspx</DependentUpon>
+      <SubType>ASPXCodeBehind</SubType>
+    </Compile>
+    <Compile Include="details.aspx.designer.cs">
+      <DependentUpon>details.aspx</DependentUpon>
+    </Compile>
+    <Compile Include="Global.asax.cs">
+      <DependentUpon>Global.asax</DependentUpon>
+    </Compile>
+    <Compile Include="Properties\AssemblyInfo.cs" />
+    <Compile Include="Site.Master.cs">
+      <DependentUpon>Site.Master</DependentUpon>
+      <SubType>ASPXCodeBehind</SubType>
+    </Compile>
+    <Compile Include="Site.Master.designer.cs">
+      <DependentUpon>Site.Master</DependentUpon>
+    </Compile>
+  </ItemGroup>
+  <ItemGroup>
+    <Folder Include="App_Data\" />
+  </ItemGroup>
+  <ItemGroup>
+    <Content Include="Account\Web.config" />
+    <Content Include="Site.Master" />
+  </ItemGroup>
+  <Import Project="$(MSBuildBinPath)\Microsoft.CSharp.targets" />
+  <Import Project="$(MSBuildExtensionsPath32)\Microsoft\VisualStudio\v10.0\WebApplications\Microsoft.WebApplication.targets" />
+  <ProjectExtensions>
+    <VisualStudio>
+      <FlavorProperties GUID="{349c5851-65df-11da-9384-00065b846f21}">
+        <WebProjectProperties>
+          <UseIIS>False</UseIIS>
+          <AutoAssignPort>True</AutoAssignPort>
+          <DevelopmentServerPort>12513</DevelopmentServerPort>
+          <DevelopmentServerVPath>/</DevelopmentServerVPath>
+          <IISUrl>
+          </IISUrl>
+          <NTLMAuthentication>False</NTLMAuthentication>
+          <UseCustomServer>False</UseCustomServer>
+          <CustomServerUrl>
+          </CustomServerUrl>
+          <SaveServerSettingsInUserFile>False</SaveServerSettingsInUserFile>
+        </WebProjectProperties>
+      </FlavorProperties>
+    </VisualStudio>
+  </ProjectExtensions>
+  <!-- To modify your build process, add your task inside one of the targets below and uncomment it. 
+       Other similar extension points exist, see Microsoft.Common.targets.
+  <Target Name="BeforeBuild">
+  </Target>
+  <Target Name="AfterBuild">
+  </Target>
+  -->
+</Project>

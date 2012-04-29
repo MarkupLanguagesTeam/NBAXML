@@ -1,0 +1,160 @@
+<?xml version='1.0' encoding='us-ascii'?>
+<?xml-stylesheet type='text/xsl' href='nbaxml.xsl'?>
+ <GAME>
+	<TEAM><TEAMNAME>VISITOR: Chicago Bulls (55-20)
+</TEAMNAME>
+		<PLAYER><NAME>Luol,Deng</NAME>
+ 			<MIN>42.44</MIN>
+			<PTS>15</PTS>
+			<REB>2</REB>
+			<STL>2</STL>
+			<BLK>1</BLK>
+		</PLAYER>
+		<PLAYER><NAME>Carlos,Boozer</NAME>
+ 			<MIN>36.13</MIN>
+			<PTS>22</PTS>
+			<REB>8</REB>
+			<STL>3</STL>
+			<BLK>0</BLK>
+		</PLAYER>
+		<PLAYER><NAME>Kurt,Thomas</NAME>
+ 			<MIN>36.36</MIN>
+			<PTS>4</PTS>
+			<REB>8</REB>
+			<STL>3</STL>
+			<BLK>2</BLK>
+		</PLAYER>
+		<PLAYER><NAME>Keith,Bogans</NAME>
+ 			<MIN>22.19</MIN>
+			<PTS>8</PTS>
+			<REB>0</REB>
+			<STL>0</STL>
+			<BLK>0</BLK>
+		</PLAYER>
+		<PLAYER><NAME>Derrick,Rose</NAME>
+ 			<MIN>37.44</MIN>
+			<PTS>27</PTS>
+			<REB>3</REB>
+			<STL>4</STL>
+			<BLK>0</BLK>
+		</PLAYER>
+		<PLAYER><NAME>Ronnie,Brewer</NAME>
+ 			<MIN>18.27</MIN>
+			<PTS>9</PTS>
+			<REB>3</REB>
+			<STL>2</STL>
+			<BLK>0</BLK>
+		</PLAYER>
+		<PLAYER><NAME>Taj,Gibson</NAME>
+ 			<MIN>13.08</MIN>
+			<PTS>5</PTS>
+			<REB>4</REB>
+			<STL>0</STL>
+			<BLK>1</BLK>
+		</PLAYER>
+		<PLAYER><NAME>CJ,Watson</NAME>
+ 			<MIN>10.40</MIN>
+			<PTS>7</PTS>
+			<REB>1</REB>
+			<STL>0</STL>
+			<BLK>0</BLK>
+		</PLAYER>
+		<PLAYER><NAME>Omer,Asik</NAME>
+ 			<MIN>9.39</MIN>
+			<PTS>2</PTS>
+			<REB>3</REB>
+			<STL>0</STL>
+			<BLK>0</BLK>
+		</PLAYER>
+		<PLAYER><NAME>Kyle,Korver</NAME>
+ 			<MIN>12.30</MIN>
+			<PTS>2</PTS>
+			<REB>0</REB>
+			<STL>0</STL>
+			<BLK>0</BLK>
+		</PLAYER>
+		<PLAYER><NAME>Rasual,Butler</NAME>
+ 			<MIN>0.0</MIN>
+			<PTS>0</PTS>
+			<REB>0</REB>
+			<STL>0</STL>
+			<BLK>0</BLK>
+		</PLAYER>
+		<PLAYER><NAME>Brian,Scalabrine</NAME>
+ 			<MIN>0.0</MIN>
+			<PTS>0</PTS>
+			<REB>0</REB>
+			<STL>0</STL>
+			<BLK>0</BLK>
+		</PLAYER>
+		</TEAM>
+	<TEAM><TEAMNAME>HOME: DETROIT PISTONS (26-49)
+</TEAMNAME>
+		<PLAYER><NAME>Tayshaun,Prince</NAME>
+ 			<MIN>36.41</MIN>
+			<PTS>17</PTS>
+			<REB>3</REB>
+			<STL>0</STL>
+			<BLK>0</BLK>
+		</PLAYER>		<PLAYER><NAME>Greg,Monroe</NAME>
+ 			<MIN>36.04</MIN>
+			<PTS>6</PTS>
+			<REB>9</REB>
+			<STL>3</STL>
+			<BLK>0</BLK>
+		</PLAYER>		<PLAYER><NAME>Chris,Wilcox</NAME>
+ 			<MIN>22.56</MIN>
+			<PTS>9</PTS>
+			<REB>3</REB>
+			<STL>0</STL>
+			<BLK>0</BLK>
+		</PLAYER>		<PLAYER><NAME>Richard,Hamilton</NAME>
+ 			<MIN>32.40</MIN>
+			<PTS>30</PTS>
+			<REB>4</REB>
+			<STL>1</STL>
+			<BLK>0</BLK>
+		</PLAYER>		<PLAYER><NAME>Will,Bynum</NAME>
+ 			<MIN>28.19</MIN>
+			<PTS>12</PTS>
+			<REB>5</REB>
+			<STL>3</STL>
+			<BLK>0</BLK>
+		</PLAYER>		<PLAYER><NAME>Rodney,Stuckey</NAME>
+ 			<MIN>25.34</MIN>
+			<PTS>2</PTS>
+			<REB>1</REB>
+			<STL>1</STL>
+			<BLK>0</BLK>
+		</PLAYER>		<PLAYER><NAME>Austin,Daye</NAME>
+ 			<MIN>23.49</MIN>
+			<PTS>6</PTS>
+			<REB>5</REB>
+			<STL>0</STL>
+			<BLK>3</BLK>
+		</PLAYER>		<PLAYER><NAME>Jason,Maxiell</NAME>
+ 			<MIN>11.56</MIN>
+			<PTS>5</PTS>
+			<REB>4</REB>
+			<STL>1</STL>
+			<BLK>0</BLK>
+		</PLAYER>		<PLAYER><NAME>Charlie,Villanueva</NAME>
+ 			<MIN>6.41</MIN>
+			<PTS>4</PTS>
+			<REB>1</REB>
+			<STL>0</STL>
+			<BLK>0</BLK>
+		</PLAYER>		<PLAYER><NAME>Ben,Gordon</NAME>
+ 			<MIN>15.20</MIN>
+			<PTS>5</PTS>
+			<REB>2</REB>
+			<STL>0</STL>
+			<BLK>0</BLK>
+		</PLAYER>		<PLAYER><NAME>DaJuan,Summers</NAME>
+ 			<MIN>0.0</MIN>
+			<PTS>0</PTS>
+			<REB>0</REB>
+			<STL>0</STL>
+			<BLK>0</BLK>
+		</PLAYER>		</TEAM>
+</GAME>

@@ -1,0 +1,5 @@
+C:\Users\fanfueled\vamsi\NBAXML\NbaXmlWebapp\NbaXmlWebapp\bin\NbaXmlWebapp.dll
+C:\Users\fanfueled\vamsi\NBAXML\NbaXmlWebapp\NbaXmlWebapp\bin\NbaXmlWebapp.pdb
+C:\Users\fanfueled\vamsi\NBAXML\NbaXmlWebapp\NbaXmlWebapp\obj\Debug\ResolveAssemblyReference.cache
+C:\Users\fanfueled\vamsi\NBAXML\NbaXmlWebapp\NbaXmlWebapp\obj\Debug\NbaXmlWebapp.dll
+C:\Users\fanfueled\vamsi\NBAXML\NbaXmlWebapp\NbaXmlWebapp\obj\Debug\NbaXmlWebapp.pdb
