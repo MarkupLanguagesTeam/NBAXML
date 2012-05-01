@@ -56,6 +56,7 @@
     <Content Include="Account\Login.aspx" />
     <Content Include="Account\Register.aspx" />
     <Content Include="details.aspx" />
+    <Content Include="GamePrediction.aspx" />
     <Content Include="Styles\Site.css" />
     <Content Include="Default.aspx" />
     <Content Include="Global.asax" />
@@ -147,7 +148,6 @@
     <Content Include="Xml\20110112MIALAC.xml" />
     <Content Include="Xml\20110113MIADEN.xml" />
     <Content Include="Xml\20110114CHIIND.xml" />
-    <Content Include="Xml\20110115MIACHI %282%29.xml" />
     <Content Include="Xml\20110115MIACHI.xml" />
     <Content Include="Xml\20110117CHIMEM.xml" />
     <Content Include="Xml\20110118ATLMIA.xml" />
@@ -179,7 +179,6 @@
     <Content Include="Xml\20110217SASCHI.xml" />
     <Content Include="Xml\20110222SACMIA.xml" />
     <Content Include="Xml\20110223CHITOR.xml" />
-    <Content Include="Xml\20110224MIACHI %282%29.xml" />
     <Content Include="Xml\20110224MIACHI.xml" />
     <Content Include="Xml\20110225WASMIA.xml" />
     <Content Include="Xml\20110226CHIMIL.xml" />
@@ -189,7 +188,6 @@
     <Content Include="Xml\20110303ORLMIA.xml" />
     <Content Include="Xml\20110304CHIORL.xml" />
     <Content Include="Xml\20110304MIASAS.xml" />
-    <Content Include="Xml\20110306CHIMIA %282%29.xml" />
     <Content Include="Xml\20110306CHIMIA.xml" />
     <Content Include="Xml\20110307NOHCHI.xml" />
     <Content Include="Xml\20110308PORMIA.xml" />
@@ -252,15 +250,10 @@
     <Content Include="Xml\20110510ATLCHI.xml" />
     <Content Include="Xml\20110511BOSMIA.xml" />
     <Content Include="Xml\20110512CHIATL.xml" />
-    <Content Include="Xml\20110515MIACHI %282%29.xml" />
     <Content Include="Xml\20110515MIACHI.xml" />
-    <Content Include="Xml\20110518MIACHI %282%29.xml" />
     <Content Include="Xml\20110518MIACHI.xml" />
-    <Content Include="Xml\20110522CHIMIA %282%29.xml" />
     <Content Include="Xml\20110522CHIMIA.xml" />
-    <Content Include="Xml\20110524CHIMIA %282%29.xml" />
     <Content Include="Xml\20110524CHIMIA.xml" />
-    <Content Include="Xml\20110526MIACHI %282%29.xml" />
     <Content Include="Xml\20110526MIACHI.xml" />
     <Content Include="Xml\20110531DALMIA.xml" />
     <Content Include="Xml\20110602DALMIA.xml" />
@@ -306,6 +299,7 @@
     <Compile Include="Account\Register.aspx.designer.cs">
       <DependentUpon>Register.aspx</DependentUpon>
     </Compile>
+    <Compile Include="Classes\XmlGame.cs" />
     <Compile Include="Default.aspx.cs">
       <DependentUpon>Default.aspx</DependentUpon>
       <SubType>ASPXCodeBehind</SubType>
@@ -319,6 +313,13 @@
     </Compile>
     <Compile Include="details.aspx.designer.cs">
       <DependentUpon>details.aspx</DependentUpon>
+    </Compile>
+    <Compile Include="GamePrediction.aspx.cs">
+      <DependentUpon>GamePrediction.aspx</DependentUpon>
+      <SubType>ASPXCodeBehind</SubType>
+    </Compile>
+    <Compile Include="GamePrediction.aspx.designer.cs">
+      <DependentUpon>GamePrediction.aspx</DependentUpon>
     </Compile>
     <Compile Include="Global.asax.cs">
       <DependentUpon>Global.asax</DependentUpon>
