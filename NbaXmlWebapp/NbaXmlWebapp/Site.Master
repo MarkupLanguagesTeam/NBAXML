@@ -18,15 +18,18 @@
                 </h1>
             </div>
             <div class="clear hideSkiplink">
+             
             </div>
         </div>
         <div class="main">
             <h2>
                 Welcome to NBA XML!
             </h2>
+            <h3><a href="GamePrediction.aspx">Predict Games</a></h3>
             <asp:ContentPlaceHolder ID="MainContent" runat="server" />
         </div>
         <div class="clear">
+           
         </div>
     </div>
     <div class="footer">
