@@ -18,4 +18,7 @@
         <strong>CHI Avg Score:&nbsp;</strong><asp:Label ID="team1AvgLbl" runat="server"></asp:Label><br />
         <strong><%= teamsDdl.SelectedValue %> Avg Score:&nbsp;</strong> <asp:Label ID="team2AvgLbl" runat="server"></asp:Label>
     </asp:PlaceHolder>
+    <br />
+    <br />
+    <a href="Default.aspx">Back To Games</a>
 </asp:Content>
